@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PullUpDragLayout">
+        <attr name="PullUpDrag_BottomView" format="reference" /><!--底部View-->
+        <attr name="PullUpDrag_ContentView" format="reference" /><!--内容View-->
+        <attr name="PullUpDrag_BottomBorderHeigth" format="reference|integer|dimension" /><!--边界高度-->
+    </declare-styleable>
+</resources>
